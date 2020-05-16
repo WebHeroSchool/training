@@ -3,7 +3,6 @@
   background-color: black;
   margin: 0;
   cursor: crosshair;
-  font-family: 'Pacifico', cursive;
 }
 
 .header {
@@ -15,7 +14,7 @@
 
 .header__title, .header__tagline {
   padding-top: 30px;
-  font-family: 'Dancing Script', cursive;
+  font-family: Courier New, monospace;
   font-weight: 0;
   font-size: 23px;
   color: gray;
