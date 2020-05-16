@@ -1,0 +1,38 @@
+.body {
+  color: white;
+  background-color: black;
+  margin: 0;
+  cursor: crosshair;
+  font-family: 'Pacifico', cursive;
+}
+
+.header {
+  background-image: url(https://indiastyle.ru/files_ru/articles/423_dlya-sovremennyh-zhenshchin-odezhda.jpg);
+  background-size: cover;
+  height: 75vh;
+  border-radius: 25px;
+}
+
+.header__title, .header__tagline {
+  padding-top: 30px;
+  font-family: 'Dancing Script', cursive;
+  font-weight: 0;
+  font-size: 23px;
+  color: gray;
+  text-align: center;
+  line-height: 2px;
+  letter-spacing: 1px;
+  word-spacing: 3px;
+  text-transform: capitalize;
+}
+
+.header__form {
+  text-align: center;
+}
+
+.header__button {
+  box-shadow: 5px 3px 4px 2px white;
+  text-decoration: none;
+  text-transform: uppercase;
+  background: white;
+}
