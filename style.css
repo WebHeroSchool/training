@@ -19,6 +19,11 @@
   font-weight: 10;
   font-size: 27px;
   color: black;
+  padding-top: 30px;
+  font-family: Courier New, monospace;
+  font-weight: 0;
+  font-size: 23px;
+  color: gray;
   text-align: center;
   line-height: 2px;
   letter-spacing: 1px;
